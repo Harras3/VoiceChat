@@ -12,4 +12,9 @@ vosk
 python-dotenv
 openai
 pydub
+langchain
+langchain-openai
+langchain_community
+langchain_chroma 
+pypdf
 -e git+https://github.com/huggingface/parler-tts.git#egg=parler-tts
